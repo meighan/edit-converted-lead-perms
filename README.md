@@ -5,4 +5,3 @@ ability to edit converted lead fields
   <img alt="Deploy to Salesforce"
        src="https://raw.githubusercontent.com/afawcett/githubsfdeploy/master/deploy.png">
 </a>
-
